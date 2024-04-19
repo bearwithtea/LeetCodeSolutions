@@ -24,3 +24,8 @@ Output: [1]
 
 The number of nodes in the tree is in the range [0, 100].
 `-100 <= Node.val <= 100`
+
+##### Results
+1. Time: 28.11
+2. Speed: 0ms (> 100% of Users)
+3. Memory: 41.36MB (> 71.92% of Users)
